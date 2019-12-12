@@ -1,4 +1,4 @@
-/* eslent-env node */
+/* eslint-env node */
 /* global xelib, registerPatcher, patcherUrl, info */
 // ngapp is global but unused.
 
