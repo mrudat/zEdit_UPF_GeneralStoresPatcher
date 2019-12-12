@@ -1,0 +1,12 @@
+{
+  "id": "GeneralStoresPatcher",
+  "name": "General Stores Patcher",
+  "author": "mrudat",
+  "version": "0.0.1",
+  "released": "2019-12-12",
+  "updated": "2019-12-12",
+  "description": "Adds knowledge about new things to General Stores and General Displays.",
+  "requires": ["unifiedPatchingFramework"],
+  "moduleLoader": "UPF",
+  "canHotLoad": true
+}
